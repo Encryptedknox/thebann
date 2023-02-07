@@ -81,7 +81,7 @@ async def start(bot: Client, cmd: Message):
                         InlineKeyboardButton("Close ", callback_data="closeMessage")
                     ],
                     [
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/knoxbots"),
+                        InlineKeyboardButton("Bots Channel", url="https://t.me/knoxprojects"),
                         InlineKeyboardButton(" Support Group", url="https://t.me/knoxbotsgroup")
                     ]
                 ]
@@ -353,7 +353,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/knoxbots")
+                        InlineKeyboardButton("Bots Channel", url="https://t.me/knoxprojects")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -362,7 +362,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                     ],
                     [
                         InlineKeyboardButton("Support Group", url="https://t.me/knoxbotsgroup"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/knoxbots")
+                        InlineKeyboardButton("Bots Channel", url="https://t.me/knoxprojects")
                     ]
                 ]
             )
@@ -411,7 +411,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("Support Group", url="https://t.me/knoxbotsgroup"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/knoxbots")
+                        InlineKeyboardButton("Bots Channel", url="https://t.me/knoxprojects")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
