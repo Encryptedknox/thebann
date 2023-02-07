@@ -34,7 +34,7 @@ Send Me any Media or File.I can Work In Channel too Add Me to Channel with Edit 
 
 ◽Bot Support: [Support](https://t.me/knoxbotsgroup)
 
-◽Bot Updates:[Updates](https://t.me/knoxbots)
+◽Bot Updates:[Updates](https://t.me/knoxprojects)
 
 
 """
