@@ -19,8 +19,10 @@ class Config(object):
 	BANNED_CHAT_IDS = list(set(int(x) for x in os.environ.get("BANNED_CHAT_IDS", "-1001362659779 -1001255795497").split()))
 	OTHER_USERS_CAN_SAVE_FILE = bool(os.environ.get("OTHER_USERS_CAN_SAVE_FILE", True))
 	ABOUT_BOT_TEXT = f"""
-This is a Permanent FileStore Bot. 
-Send Me any Media or File.I can Work In Channel too Add Me to Channel with Edit Permission, I will add save Uploaded File in Channel and Share a Shareable Link.
+🔹This is a Permanent FileStore Bot. 
+🔹Send Me any Media or File.I can Work In Channel too Add Me to Channel with Edit Permission, I will add save Uploaded File in Channel and Share a Shareable Link.
+🔹Benefits: If you have a TeleGram Movie Channel or Any Copyright Channel, Then Its Useful for Daily Usage, You can Send Me Your File & I will Send Permanent Link to You & Channel will be Safe from **CopyRight Infringement** Issue. I support Channel Also You Can Check **About Bot**.
+🔹Useless contents are strictly prohibited & get Permanent Ban. You know what i meant useless
 
 ◽My Name: [File Share Bot](https://t.me/{BOT_USERNAME})
 
@@ -47,8 +49,5 @@ small engorgement for my works. contact admink
 	HOME_TEXT = """
 Hello, [{}](tg://user?id={})\n\nThis is a Permanent File Share Bot.
 
-◽How to Use Bot & it's Benefits??
 ◽Send me any File & You will Get the File Link.
-◽Benefits: If you have a TeleGram Movie Channel or Any Copyright Channel, Then Its Useful for Daily Usage, You can Send Me Your File & I will Send Permanent Link to You & Channel will be Safe from **CopyRight Infringement** Issue. I support Channel Also You Can Check **About Bot**.
-◽Useless contents are strictly prohibited & get Permanent Ban. You know what i meant useless
 """
