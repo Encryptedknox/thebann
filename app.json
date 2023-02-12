@@ -9,7 +9,7 @@
     ],
     "repository": "https://github.com/aceknox/FileStoreBot",
     "website": "https://telegram.dog/knoxbots",
-    "success_url": "https://t.me/knoxbotsgroup",
+    "success_url": "https://t.me/knoxsupport",
     "logo": "https://telegra.ph/file/b39906f572822b3ab82c8.jpg",
     "env": {
         "API_ID": {
