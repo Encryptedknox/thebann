@@ -32,7 +32,7 @@ Send Me any Media or File.I can Work In Channel too Add Me to Channel with Edit 
 
 ◽Developer: [Ace Knox](https://t.me/aceknox) 
 
-◽Bot Support: [Support](https://t.me/knoxbotsgroup)
+◽Bot Support: [Support](https://t.me/knoxsupport)
 
 ◽Bot Updates:[Updates](https://t.me/knoxprojects)
 
